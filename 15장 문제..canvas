@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"388faa960ae51fd0","type":"text","text":"Quiz 1.\n다음 console.log의 값은 어떻게 나올까?\nvar name = \"cat\"\nfunction a(){\n var name = \"monkey\"\n}\na()\nconsole.log(name) \n\n\n\n\n\n\n\n\n\n\n\n\n\n정답 : \"cat\"","x":-900,"y":-340,"width":250,"height":240},
+		{"id":"c199cf9e0203765b","type":"text","text":"Quiz 2.\n다음 console.log의 값은 어떻게 나올까?\nvar name = \"cat\"\nif(true){\n\tvar name = \"monkey\"\n}\n\n\nconsole.log(name)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n정답 \"monkey\"","x":-638,"y":-340,"width":250,"height":240},
+		{"id":"170787d60cdaa2d1","type":"text","text":"Quiz 3.\n다음 console.log의 값은 어떻게 나올까?\n```\nvar x = 1; \nvar y = 1;\n\nvar x = 100;  \nvar y;\n\nconsole.log(x);\nconsole.log(y); \n\n\n\n\n\n\n정답 : x = 100 , y = 1","x":-380,"y":-340,"width":260,"height":240}
+	],
+	"edges":[]
+}
